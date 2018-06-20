@@ -3,8 +3,6 @@ package nl.telfort.tests.nl.telfort.opening;
 public class Parent1 {
 
 
-    private static final Object Methods = ;
-
     public static void main(String[] args) {
 
         /* shortcut psvm */
