@@ -1,6 +1,5 @@
 package nl.telfort.tests.nl.telfort.opening;
 
-import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -21,16 +20,15 @@ public class InloggenTelfortTest {
       driver.manage().window().maximize() ;
 
       // open chrome browser
-      driver.get("https://testa.1mijn.telfort.nl");
+      driver.get("https://deve.1mijn.telfort.nl/");
 
       // accepteer de cookiemelding
       driver.findElement(By.name("cookies-accepteren")).click();
 
-     // Klik op service
-     WebElement SpanService = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//ul[@class='mainNavigation_list']/li[4]")));
-     SpanService.click();
+     // Klik op Mijn Telfort
+     driver.findElement(By.xpath("//ul[@class='mainNavigation_list']/li[4]")).click();
 
-      // Klik op Inloggen mijn telfort
+      // Klik op InloggBen mijn telfort
      driver.findElement(By.linkText("Inloggen Mijn Telfort")).click();
      Assert.assertEquals("Inloggen Mijn Telfort | Telfort", driver.getTitle());
 
@@ -53,7 +51,5 @@ public class InloggenTelfortTest {
      driver.close();
 
   }
-
-
 
 }

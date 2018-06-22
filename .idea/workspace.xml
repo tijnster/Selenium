@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d8fd31-a8e9-42bb-86a9-1cce7a15488d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/DropdownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/nl/telfort/tests/nl/telfort/opening/DropdownTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Parent1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Parent1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nl/telfort/tests/nl/telfort/opening/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/nl/telfort/tests/nl/telfort/opening/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/nl/telfort/tests/nl/telfort/opening/melvin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,7 +22,7 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="340">
               <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -34,11 +34,47 @@
       <file leaf-file-name="InloggenTelfortTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="233">
+              <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Radiobuttons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Radiobuttons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Alerts.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Alerts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parent1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Parent1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Methods2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Methods2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -67,6 +103,10 @@
         <option value="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Parent1.java" />
         <option value="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pages/InloggenMijnTelfort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/DropdownTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Alerts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/RadioButtons.java" />
+        <option value="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/RadioButtonTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.java" />
       </list>
     </option>
@@ -95,9 +135,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-140" />
-    <option name="width" value="865" />
-    <option name="height" value="1050" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -105,9 +146,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +219,9 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="nl.telfort.tests.nl.telfort.opening" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nl.telfort.tests.nl.telfort.opening" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -195,6 +239,17 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.InloggenTelfortTest">
+    <configuration name="DropdownTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.telfort.tests.nl.telfort.opening.DropdownTest" />
+      <module name="Udemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.telfort.tests.nl.telfort.opening.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Parent1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.telfort.tests.nl.telfort.opening.Parent1" />
       <module name="Udemy" />
@@ -321,10 +376,12 @@
       <item itemvalue="JUnit.Test" />
       <item itemvalue="Application.Parent1" />
       <item itemvalue="JUnit.InloggenTelfortTest" />
+      <item itemvalue="Application.DropdownTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.InloggenTelfortTest" />
+        <item itemvalue="Application.DropdownTest" />
         <item itemvalue="JUnit.Test" />
         <item itemvalue="Application.Parent1" />
         <item itemvalue="JUnit.nl.telfort.tests.nl.telfort.opening in Udemy" />
@@ -345,53 +402,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 19h 59m 37s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 07m 13s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 00m 07s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 09m 57s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 04m 24s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 10m 42s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 07m 06s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 11m 55s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 10m 25s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 14m 26s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 12m 04s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 16m 25s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 13m 26s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 16m 51s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 39m 14s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 18m 18s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 43m 28s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 11h 24m 53s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InloggenTelfortTest - 2018.06.18 at 20h 52m 45s.xml">
+    <history-entry file="InloggenTelfortTest - 2018.06.21 at 16h 55m 40s.xml">
       <configuration name="InloggenTelfortTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3286385" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.17986578" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24643874" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39280125" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26780626" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18657719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113672495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -404,34 +463,33 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3931624" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19194631" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26780626" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32905984" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.17986578" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.17986578" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -439,6 +497,60 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -560,28 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/TestTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Methods2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Parent1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.12.0/selenium-api-3.12.0.jar!/org/openqa/selenium/WebDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
@@ -596,9 +687,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/DropdownTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Parent1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Methods2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Alerts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="340">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -606,10 +735,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/RadioButtonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/Radiobuttons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/nl/telfort/tests/nl/telfort/opening/InloggenTelfortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="233">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
